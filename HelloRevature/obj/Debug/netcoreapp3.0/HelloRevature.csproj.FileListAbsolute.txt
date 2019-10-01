@@ -1,0 +1,11 @@
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\bin\Debug\netcoreapp3.0\HelloRevature.exe
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\bin\Debug\netcoreapp3.0\HelloRevature.deps.json
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\bin\Debug\netcoreapp3.0\HelloRevature.runtimeconfig.json
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\bin\Debug\netcoreapp3.0\HelloRevature.runtimeconfig.dev.json
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\bin\Debug\netcoreapp3.0\HelloRevature.dll
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\bin\Debug\netcoreapp3.0\HelloRevature.pdb
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\obj\Debug\netcoreapp3.0\HelloRevature.csprojAssemblyReference.cache
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\obj\Debug\netcoreapp3.0\HelloRevature.AssemblyInfoInputs.cache
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\obj\Debug\netcoreapp3.0\HelloRevature.AssemblyInfo.cs
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\obj\Debug\netcoreapp3.0\HelloRevature.dll
+C:\Users\Sam Lin\Desktop\Revature\sam-code\HelloRevature\obj\Debug\netcoreapp3.0\HelloRevature.pdb
