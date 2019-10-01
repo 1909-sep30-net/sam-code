@@ -10,6 +10,7 @@ namespace HelloRevature
             var a = "b";
 
             Console.WriteLine("Hello Revature!");
+            Console.WriteLine("Revature Again");
         }
     }
 }
